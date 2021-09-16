@@ -1,4 +1,4 @@
-###Actomyosin contractions in soft pillar rings
+# Actomyosin contractions in soft pillar rings
 
 This is the code used to solve an analytical model that describes the contraction dynamics of actomyosin networks that are attached to a ring of ten soft elastic pillars. The models are defined by a set of coupled differnetial equations that are solved numerically.
 
@@ -14,7 +14,8 @@ Developed in Python 3.7. Dependencies:
     - NumPy, SciPy
     - Optional: Matplotlib (for plotting)
 
-###Contents:
+### Contents:
+
 **calculate_contraction_dynamics.py:** The front end of the code that can be used to solve the contraction dynamics of different models.
 
 **plotting.py:** Contains various plotting routines that might be useful to visualize the results of the calculate_contraction_dynamics method.
