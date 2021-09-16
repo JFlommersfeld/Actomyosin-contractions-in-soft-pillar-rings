@@ -1,0 +1,13 @@
+x_catch	[nm]:	2.5
+x_slip [nm]:	0.4
+k_off^catch [s^-1]:	176
+k_off^slip [s^-1]:	15
+k_on [s^-1]:	10
+k_on_fil [s^-1]:  0.5
+a/kBT [1/pNnm]:	0.0966
+N_h [1]:	28
+N_max [1]:	200
+h*eta_am^eff [umPas]:	6.e3
+xi*rho_a(t=0)^2 [pN/s]:	0.6
+rho_a^max/rho_a(t=0) [1]:	21.7
+R0 [um]: 7

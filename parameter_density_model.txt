@@ -1,0 +1,4 @@
+h*eta_am^eff [umPas]:	1.6e3
+xi*NM*rho_a(t=0)^2 [pN/s]:	50.
+rho_a^max/rho_a(t=0) [1]:	5.4
+R0 [um]: 7
